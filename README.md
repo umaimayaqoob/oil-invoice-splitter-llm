@@ -1,2 +1,2 @@
-# oil-invoice-splitter-llm
+# document-splitter-llm
 LLM based document segmentation
