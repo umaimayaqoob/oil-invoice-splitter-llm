@@ -1,0 +1,34 @@
+ADNOC GLOBAL TRADING LTD Payment Method:
+SQ _sLevel 25, Al Sarab Tower Z Name: ADNOC GLOBAL TRADING LTD
+ADGM Square, Al Maryah Island —_ Bank Name: HSBC Bank Plc
+Abu Dhabi AXA Bs G : N AL IBAN: GB11MIDL40051586181859
+- UAE Gade RE aK Account #: 86181859
+eIq_ini www.adnoc.ae en ss cewennerene! SWIFT Code: MIDLGB22
+ADNOC | apnoc uae vat Reg. 100229459100003 Intermediary Account Name:
+Intermediary Bank Name: HSBC Bank USA, National
+Association
+Intermediary Account Number:
+Intermediary SWIFT Code: MRMDUS33
+Currency: USD
+Customer:
+Pakistan State Oil Company Limited
+P.S.0, House, Khayaban-E-Iqbal, Clifton Karachi 75600
+Pakistan
+Customer VAT Reg.:
+BBL Quantity :503686.640
+Invoice # Issue Date Due Date Deal Number NOR Date
+10031555 30/04/2025 21/05/2025 3328855 22/04/2025
+Vessel Name Incoterms Loading Location Discharge Location B/L Date Parcel ID Cargo ID Exchange Rate
+Hai Tun Zuo CFR RUWAIS KARACHI 19/04/2025 154124 27911 at on
+Price VAT Amount Gross Amount
+Gasoline 92R 57838.772 MT (Air) 77.474 39,022,618.75 a 39,022,618.75
+Total Amount (USD) 39,022,618.75 a 39,022,618.75
+rata mount (RED) | __4a 31056736 _-| SSCS sera)
+Contract Specification:
+PORT OF LOADING RUWAIS UAE
+PORT OF DISCHARGE PORT KEAMARI KARACHI PAKISTAN / PORT QASIM (FOTCO) KARACHI
+PAKISTAN
+L/C NO.0428TF25 10624268 STATING THE CONTRACT PRICE CFR,
+PORT KEAMARI KARACHI PAKISTAN / PORT QASIM (FOTCO) KARACHI
+PAKISTAN
+ADNOC GLOBAL TRADING LTD Page 1 of 3

@@ -1,0 +1,947 @@
+[
+  {
+    "document_type": "Invoice | Bill of Lading",
+    "invoice_number": "10031555",
+    "issue_date": "2025-04-30T00:00:00Z",
+    "due_date": "2025-05-21T00:00:00Z",
+    "buyer": {
+      "name": "Pakistan State Oil Company Limited",
+      "address": "PS0, House, Khayaban-EIqbal, Clifton Karachi 75600, Pakistan"
+    },
+    "seller": "ADNOC GLOBAL TRADING LTD Page 1 of 3 ADGM Square Al Maryah Island Level 25, Ad Sarab Tower",
+    "total_amount_usd": "390226187.50",
+    "vessel_name": "",
+    "bbl_quantity": "503686.640",
+    "bl_date": "2025-04-19T00:00:00Z",
+    "port_of_loading": "RUWAIS UAE",
+    "port_of_discharge": [
+      "PORT KEAMARI KARACHI PAKISTAN / PORT QASIM (FOTCO) KARACHI, Pakistan"
+    ],
+    "chunk_id": 2,
+    "pages": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": "14042025",
+    "issue_date": "16-Apr-25",
+    "due_date": "",
+    "buyer": {
+      "name": "Pakistan State Oil Company Limited",
+      "address": "P.S.O, House, Khayaban-EIqbal, Clifton Karachi 75600 Pakistan"
+    },
+    "seller": "ADNOC Global Trading LTD",
+    "total_amount_usd": "39,022,618.75",
+    "vessel_name": "Hai Tun Zuo",
+    "bbl_quantity": "503686.64",
+    "bl_date": "19-Apr-25",
+    "chunk_id": 3,
+    "pages": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": "10031555",
+    "issue_date": "16/04/2025",
+    "due_date": "21/05/2025",
+    "buyer": {
+      "name": "Pakistan State Oil Company Limited",
+      "address": "PSO, House, Khayaban-EIqbal, Clifton Karachi 75600, Pakistan"
+    },
+    "seller": "",
+    "total_amount_usd": "39,022,618.75",
+    "vessel_name": "Hai Tun Zuo",
+    "bbl_quantity": "503686.640",
+    "bl_date": "19/04/2025",
+    "port_of_loading": "RUWAIS KARACHI",
+    "port_of_discharge": [
+      "PORT QASIM (FOTCO) KARACHI"
+    ],
+    "suggested_filename": "",
+    "chunk_id": 4,
+    "pages": [
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 7,
+    "pages": [
+      25
+    ]
+  },
+  {
+    "document_type": "Invoice | Bill of Lading",
+    "invoice_number": "Not Provided in Document Text",
+    "issue_date": "- Not Provided in Document Text -",
+    "due_date": "- Not Provided in Document Text -",
+    "buyer": "- Not Provided in Document Text -",
+    "seller": "- Not Provided in Document Text -",
+    "total_amount_usd": "- Not Available as there is no clear financial data provided within the document text.",
+    "vessel_name": "- Not Specified in Document Text -",
+    "bbl_quantity": "- Not Stated in Document Text -",
+    "bl_date": "- Information Missing from Document Text -",
+    "port_of_loading": "- Port not Mentioned in Provided Text - ",
+    "port_of_discharge": "- Discharge Location Unspecified within Given Text -",
+    "chunk_id": 8,
+    "pages": [
+      26
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 9,
+    "pages": [
+      27
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": "-3452890",
+    "issue_date": "2023-04-01",
+    "due_date": null,
+    "buyer": "",
+    "seller": "",
+    "total_amount_usd": "$25.23",
+    "vessel_name": "",
+    "bbl_quantity": "789 bbls.",
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "oil-trading_document.pdf",
+    "chunk_id": 10,
+    "pages": [
+      28
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 11,
+    "pages": [
+      29
+    ]
+  },
+  {
+    "document_type": "Certificate",
+    "invoice_number": "720145639",
+    "issue_date": "2023-04-01",
+    "due_date": "",
+    "buyer": "",
+    "seller": "oil trading company SS Cargo Line Inc.",
+    "total_amount_usd": "$5,678.90",
+    "vessel_name": "SS Exporter Prime",
+    "bbl_quantity": "234 Bbl of Oil XYZ-12",
+    "bl_date": "2023-03-25",
+    "port_of_loading": "Port Houston, TX, USA",
+    "port_of_discharge": "",
+    "suggested_filename": "oil_export.pdf",
+    "chunk_id": 12,
+    "pages": [
+      30
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": "",
+    "issue_date": "",
+    "due_date": "",
+    "buyer": "",
+    "seller": "",
+    "total_amount_usd": "",
+    "vessel_name": "",
+    "bbl_quantity": "",
+    "bl_date": "",
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 13,
+    "pages": [
+      31
+    ]
+  },
+  {
+    "document_type": "Bill of Lading",
+    "invoice_number": "",
+    "issue_date": "",
+    "due_date": "",
+    "buyer": "",
+    "seller": "",
+    "total_amount_usd": "",
+    "vessel_name": "",
+    "bbl_quantity": "",
+    "bl_date": "",
+    "port_of_loading": "",
+    "port_of_discharge": "",
+    "suggested_filename": "",
+    "chunk_id": 14,
+    "pages": [
+      32
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 15,
+    "pages": [
+      33
+    ]
+  },
+  {
+    "document_type": "Bill of Lading",
+    "invoice_number": "",
+    "issue_date": "2020-08-03",
+    "due_date": "",
+    "buyer": "BIOTECH SOLUTIONS LP, BOS19754 (BOSS), Massachusetts Institute of Technology Corporation (MIT), Cambridge, MA 02142, USA",
+    "seller": "BIOLOGICAL RESEARCH CENTER OF AMERICAN UNIVERSITY AND HOLY TRINITY SEMMETRIC STUDY GROUP LLC., BOS98765 (STSS), Massachusetts Institute of Technology Corporation",
+    "total_amount_usd": "",
+    "vessel_name": "",
+    "bbl_quantity": "23.0 gallons per minute * min/hr = 1380 minutes / hour * hours in a year (assuming non-stop operation for simplicity) * vessel's capacity to measure",
+    "bl_date": "",
+    "port_of_loading": "",
+    "port_of_discharge": "",
+    "suggested_filename": "BioTechInvoice2020.json",
+    "chunk_id": 16,
+    "pages": [
+      34
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 17,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "document_type": "Invoice | Bill of Lading | Certificate",
+    "invoice_number": "",
+    "issue_date": "",
+    "due_date": "",
+    "buyer": "",
+    "seller": "",
+    "total_amount_usd": "$1234567.890",
+    "vessel_name": "",
+    "bbl_quantity": "",
+    "bl_date": "",
+    "port_of_loading": "",
+    "port_of_discharge": "",
+    "suggested_filename": "",
+    "chunk_id": 18,
+    "pages": [
+      36
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": "",
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 19,
+    "pages": [
+      37
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": "",
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 20,
+    "pages": [
+      38
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": "",
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 21,
+    "pages": [
+      39
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 22,
+    "pages": [
+      41
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": "",
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 23,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": "",
+    "seller": "Sea Alas Oil Co.",
+    "total_amount_usd": "$33.00",
+    "vessel_name": "SSeaels|seelsleseevsceeez zeae",
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": "",
+    "port_of_discharge": null,
+    "suggested_filename": "Sea Alas Oil Co - Invoice.pdf",
+    "chunk_id": 24,
+    "pages": [
+      45
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 25,
+    "pages": [
+      47
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": "",
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 26,
+    "pages": [
+      49
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": "",
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 27,
+    "pages": [
+      51
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 29,
+    "pages": [
+      55
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": "",
+    "vessel_name": null,
+    "bbl_quantity": "",
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 30,
+    "pages": [
+      57
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 31,
+    "pages": [
+      59
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": "",
+    "issue_date": "",
+    "due_date": "",
+    "buyer": "",
+    "seller": "",
+    "total_amount_usd": "",
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 32,
+    "pages": [
+      61
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": "crzcola40PS",
+    "issue_date": "Not provided in the document text.",
+    "due_date": "Not provided in the document text.",
+    "buyer": "G3gaelolseglliaISsSl&ePstpseerregga298zg51",
+    "seller": "so FlaqsaF sle gpeooaex ogee63029a",
+    "total_amount_usd": "$40.00",
+    "vessel_name": "Not provided in the document text.",
+    "bbl_quantity": "1 bbl (Note: BBL stands for Barrel of Oil, which is a unit typically measured not by volume but weight)",
+    "bl_date": "Not provided in the document text.",
+    "port_of_loading": "Not provided in the document text.",
+    "port_of_discharge": "Not provided in the document text.",
+    "suggested_filename": "oil-invoice-crzcola40PS.json",
+    "chunk_id": 34,
+    "pages": [
+      65
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 35,
+    "pages": [
+      67
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 36,
+    "pages": [
+      69
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 37,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": "LBe\u00bbZ2ORo es 28S&: eTHE\u00e9 Ss ga Se 5S % & 9 \u00a7 E2S146i g 7. | 88 ",
+    "issue_date": "",
+    "due_date": "",
+    "buyer": "",
+    "seller": "BE iS n | \u2014 5 [o) > 25 \u00b0; 2 < = 4 = a8 re fo) BB = > a : Sr: ",
+    "total_amount_usd": "$25 oc S D Es HEE",
+    "vessel_name": "",
+    "bbl_quantity": "25",
+    "bl_date": "",
+    "port_of_loading": "",
+    "port_of_discharge": "",
+    "suggested_filename": "",
+    "chunk_id": 38,
+    "pages": [
+      73
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 39,
+    "pages": [
+      75
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 41,
+    "pages": [
+      79
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": null,
+    "issue_date": "12/5/9129",
+    "due_date": null,
+    "buyer": "@ @ a@csoeozsoogecgetee@sSPTEVSES",
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": "",
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 42,
+    "pages": [
+      81
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 43,
+    "pages": [
+      83
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": "",
+    "vessel_name": null,
+    "bbl_quantity": "",
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 44,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": "3 ee",
+    "issue_date": "2021-08-24",
+    "due_date": "",
+    "buyer": "al baa",
+    "seller": "a a BG",
+    "total_amount_usd": "53.75",
+    "vessel_name": "",
+    "bbl_quantity": "23,500",
+    "bl_date": "",
+    "port_of_loading": "N o",
+    "port_of_discharge": "",
+    "suggested_filename": "a-al-baa-to-aa-bg.invoice",
+    "chunk_id": 45,
+    "pages": [
+      87
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": "42Nhe",
+    "issue_date": "1970-01-01T00:00:00Z",
+    "due_date": "",
+    "buyer": "SaNewWrkCo.",
+    "seller": null,
+    "total_amount_usd": "$8.52",
+    "vessel_name": null,
+    "bbl_quantity": "",
+    "bl_date": "",
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "42Nhe.invoice",
+    "chunk_id": 46,
+    "pages": [
+      89
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 47,
+    "pages": [
+      91
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 48,
+    "pages": [
+      93
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": "",
+    "vessel_name": null,
+    "bbl_quantity": "",
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 49,
+    "pages": [
+      95
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 50,
+    "pages": [
+      97
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 51,
+    "pages": [
+      99
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 52,
+    "pages": [
+      101
+    ]
+  },
+  {
+    "document_type": "Invoice",
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": "",
+    "seller": "",
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": "",
+    "chunk_id": 53,
+    "pages": [
+      103
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 54,
+    "pages": [
+      105
+    ]
+  },
+  {
+    "document_type": null,
+    "invoice_number": null,
+    "issue_date": null,
+    "due_date": null,
+    "buyer": null,
+    "seller": null,
+    "total_amount_usd": null,
+    "vessel_name": null,
+    "bbl_quantity": null,
+    "bl_date": null,
+    "port_of_loading": null,
+    "port_of_discharge": null,
+    "suggested_filename": null,
+    "chunk_id": 55,
+    "pages": [
+      107
+    ]
+  }
+]
